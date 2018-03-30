@@ -12,4 +12,5 @@ https://fintecheando-ag.firebaseapp.com/
 
 Reference
 
-* https://sketchfab.com/models?features=animated&sort_by=-likeCount&type=models 
+* https://medium.com/@akashkuttappa/using-3d-models-with-ar-js-and-a-frame-84d462efe498
+* https://sketchfab.com/models?features=downloadable+animated&sort_by=-likeCount&type=models&cursor=cD00MSZvPTQ%3D
